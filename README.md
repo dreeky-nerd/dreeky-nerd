@@ -2,16 +2,16 @@
 
 <br/>
 <h3>dreeky</h3><br/>
-go for fun develop
+go for fun developing new things
 
 
 <br/><br/>
 <!-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jinnyong44@gmail.com)](mailto:jinnyong44@gmail.com) -->
 <br/><br/>
 <h3>History</h3>
- ```- Service Full Manage & Developed```<br>
+ ###Service Full Manage & Developed<br>
  <a href="opic.or.kr">OPIc PC</a> / <a href="m.opic.or.kr">OPIc Mobile</a><br>
- ```- Service Develop & Start Member```
+ ###Service Develop & Start Member<br>
  <a href="ddoit.nerdfrenz.com">DDOIT</a>
  
 <br/><br/>
