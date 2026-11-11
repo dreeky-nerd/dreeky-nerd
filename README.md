@@ -11,7 +11,7 @@ go for fun developing new things
 <h3>History</h3>
  <strong>## Service Full Manage & Developed</strong>
  <br>
- <a href="https://opic.or.kr">OPIc PC</a> / <a href="https://m.opic.or.kr">OPIc Mobile</a><br>
+ <a href="https://opic.co.kr">OPIc PC</a> / <a href="https://m.opic.co.kr">OPIc Mobile</a><br>
  <strong>## Service Develop & Start Member</strong>
  <br>
  <a href="https://ddoit.nerdfrenz.com">DDOIT</a>
